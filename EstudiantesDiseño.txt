@@ -1,0 +1,8 @@
+Nombre: Liliana
+Apellido: Cabrejo
+Cedula: 52032818
+Modalidad de Estudio: Presencial
+Serial: 2005
+Telefono: 3103424698
+Cantidad de Materias: 5
+---------------------------------------

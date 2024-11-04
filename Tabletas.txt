@@ -1,0 +1,7 @@
+Marca: Samsung
+Serial: 2005
+Tamaño: 30.0
+Precio: 2000000.0
+Almacenamiento: 512 GB
+Peso: 1.0
+---------------------------------------

@@ -1,0 +1,16 @@
+Nombre: Kevin
+Apellido: porras
+Cedula: 1014189315
+Telefono: 3144002569
+Semestre Actual: 3
+Promedio: 5.0 
+Serial: 12
+---------------------------------------
+Nombre: Pepito 
+Apellido: Perez
+Cedula: 1015189275
+Telefono: 3143466851
+Semestre Actual: 2
+Promedio: 3.0 
+Serial: 2005
+---------------------------------------

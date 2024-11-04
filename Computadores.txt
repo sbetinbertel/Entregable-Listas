@@ -1,0 +1,14 @@
+Marca: Hp
+Serial: 12
+Tamaño: 30.0
+Precio: 2000000.0
+Procesador: AMD Ryzen
+Sistema Operativo: Windows 11
+---------------------------------------
+Marca: Asus
+Serial: 2005
+Tamaño: 50.0
+Precio: 3000000.0
+Procesador: AMD Ryzen
+Sistema Operativo: Windows 11
+---------------------------------------
